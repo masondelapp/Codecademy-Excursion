@@ -40,3 +40,29 @@ a {
     font-size: 21px;
     color: gray;
 }
+
+/* Coming */
+
+#coming img {
+    padding: 100px 0 60px;
+}
+
+#coming h1{
+    color: white;
+    font-family: Verdana;
+    font-weight: 300px;
+    font-size: 42px;
+    margin-bottom: 40px;
+    
+}
+#coming a {
+    line-height: 2.0em;
+}
+
+/* Footer */
+
+footer p {
+    color: gray;
+    text-align: right;
+    margin: 10px;
+}
